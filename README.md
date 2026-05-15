@@ -1,4 +1,4 @@
-Green-Chain - E-Waste Marketplace
+#Green-Chain - E-Waste Marketplace
 Overview
 Green-Chain is a circular economy platform that connects households with repair shops through an e-waste recycling ecosystem. Households submit dead devices, admins dismantle them into certified components, and repair shops purchase these components at 40-60% below market price.
 
